@@ -1,0 +1,16 @@
+Lab6/Practica6> ./cacheWT
+Test 0 PASS :-)
+Hits: 9, miss: 11
+Test 1 PASS :-)
+Hits: 875, miss: 1125
+Test 2 PASS :-)
+Hits: 58261, miss: 4239
+Lab6/Practica6> ./cacheCB
+Test 0 PASS :-)
+Hits: 8, miss: 12
+Test 1 PASS :-)
+Hits: 0, miss: 2000
+Test 2 PASS :-)
+Hits: 58264, miss: 4236
+
+En el test 2 és millor fer servir la cache amb write through.
